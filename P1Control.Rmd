@@ -6,6 +6,9 @@ output:
   pdf_document: default
   html_document: default
 ---
+```{r}
+h
+```
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
