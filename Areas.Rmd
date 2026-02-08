@@ -21,6 +21,14 @@ Lado <- 3
 AreaCuadrado <- Lado^2
 ```
 
+## Área triángulo
+```{r}
+Base <- 10
+Altura <- 8
+AreaTriangulo <- (Base*Altura)/2
+```
+
+
 
 ## R Markdown
 
