@@ -35,6 +35,14 @@ Altura1 <- 10
 AreaRectangulo <- Base1*Altura1
 ```
 
+## Área Trapecio
+```{r}
+B <- 15
+b <- 8
+H <- 8
+AreaTrapecio <- (B+b)/2*H
+```
+
 
 ## R Markdown
 
