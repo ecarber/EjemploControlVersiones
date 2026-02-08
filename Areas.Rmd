@@ -28,6 +28,12 @@ Altura <- 8
 AreaTriangulo <- (Base*Altura)/2
 ```
 
+## Área rectángulo
+```{r}
+Base1 <- 18
+Altura1 <- 10
+AreaRectangulo <- Base1*Altura1
+```
 
 
 ## R Markdown
